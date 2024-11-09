@@ -146,16 +146,15 @@ pm2 startup               # Configurar pm2 para iniciar automáticamente
 
 ⭐LINKS IMPORTANTES⭐
 <br>
-- [⭕ YouTube @Retired64](https://youtube.com/@retired64)
+[⭕ YouTube @Retired64](https://youtube.com/@retired64)
 <br>
-- [https://links.cmbr.dev](https://links.cmbr.dev/)
+[https://links.cmbr.dev](https://links.cmbr.dev/)
 ![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 <br>
-- [https://cmbr.dev](https://cmbr.dev/)
-<br>
-- [https://www.builderbot.app](https://www.builderbot.app/en)
+[https://cmbr.dev](https://cmbr.dev/)
+[https://www.builderbot.app](https://www.builderbot.app/en)
 ![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 
 ---
 
-Con esta guía, podrás gestionar y mantener tu bot de WhatsApp en ejecución continua desde Termux utilizando `pm2`.
+Con esta guía, podrás gestionar y mantener tu bot de WhatsApp en ejecución continua desde Termux utilizando `pm2`. Y si te a sido util no olvides suscribirte al canal de YouTube `Retired64`.
