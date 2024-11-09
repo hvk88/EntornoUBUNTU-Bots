@@ -1,12 +1,9 @@
-# BUILDERBOT EN TERMUX
+## BUILDERBOT EN TERMUX
 
 ![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 ![IMG](assets/images/logo.png)
 ![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 ---
-
-# **Guía para Mantener Bots de WhatsApp en Ejecución con pm2 en Termux**
-
 ## Requisitos Previos
 
 1. **Dispositivo Android** de 64 bits con al menos 2.5 GB de almacenamiento.
