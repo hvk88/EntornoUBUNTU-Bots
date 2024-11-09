@@ -1,5 +1,5 @@
-# BUILDERBOT APP EN TERMUX
-Aquí tienes una guía detallada para configurar y utilizar `pm2` en Termux dentro de Ubuntu, que te permitirá mantener tu bot de WhatsApp en ejecución continuamente:
+# BUILDERBOT EN TERMUX
+
 ![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 ![IMG](assets/images/logo.png)
 ![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
