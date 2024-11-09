@@ -1,0 +1,21 @@
+#!/bin/bash
+
+ARCH=$(uname -m)
+if [ "$ARCH" != "aarch64" ]; then
+    echo -e "Copia no compatible con tu dispositivo.\nÚnicamente compatible con dispositivos de 64 bits."
+    exit 1
+fi
+
+yes | pkg update && yes | pkg upgrade
+
+TERMUX_DIR="/data/data/com.termux/files"
+
+curl -L -o termux-VPS-backup.tar.gz https://github.com/hvk88/EntornoUBUNTU-Bots/raw/refs/heads/main/termux-VPS-backup.tar.gz
+tar -zxf termux-VPS-backup.tar.gz -C $TERMUX_DIR --recursive-unlink --preserve-permissions
+
+# Verificar si el archivo existe antes de eliminarlo
+if [ -f "./termux-VPS-backup.tar.gz" ]; then
+    rm termux-VPS-backup.tar.gz
+fi
+
+echo "¡Restauración completada!"
