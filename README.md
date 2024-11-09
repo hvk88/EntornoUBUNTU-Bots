@@ -31,7 +31,12 @@ ubuntu
 
 > [!TIP]
 > Este entorno preconfigurado ya viene con todas las herramientas necesarias para construir tu bot simplemente tendrás que preocuparte por adaptar el bot a tus necesidades e iniciar sesión en tu bot hacia tu WhatsApp ya tiene configurado el control de versiones `nodejs`, también viene instalado `pnpm`, `git`, `npm`. Y las compilaciones funcionan correctamente de typescript, El directorio de trabajo dentro de `UBUNTU` es workspace dónde está un bot de prueba ya listo para editarlo con los mudolos instalados.
-
+________________________________
+![pm2 en termux android](assets/pm2.png)
+![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
+> [!NOTE]
+> Si deseas ejecutar tu Bot los 24 horas del día Durante los 7 días de la semana teniendo en cuenta que tendrás que estar conectado a internet y no deberá apagarse tu dispositivo bueno empezamos con la guía utilizando `PM2`, ya que este paquete de nodejs nos permite mantener nuestro bot activo sin importar nada evidentemente teniendo conexión a internet como antes mencionado.
+________________________________
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F70000&background=450F6200&width=435&lines=CR%C3%89DITOS+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ⭐LINKS IMPORTANTES⭐
