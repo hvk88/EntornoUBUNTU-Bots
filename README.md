@@ -30,7 +30,7 @@ ubuntu
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=47F75F&background=450F6200&width=435&lines=BENEFICIOS+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 > [!TIP]
-> Este entorno preconfigurado ya viene con todas las herramientas necesarias para construir tu bot simplemente tendrás que preocuparte por adaptar el bot a tus necesidades e iniciar sesión en tu voz hacia tu WhatsApp ya tiene configurado el control de versiones `nodejs`, también viene instalado `pnpm`, `git`, `npm`. Y las compilaciones funcionan correctamente de typescript.
+> Este entorno preconfigurado ya viene con todas las herramientas necesarias para construir tu bot simplemente tendrás que preocuparte por adaptar el bot a tus necesidades e iniciar sesión en tu bot hacia tu WhatsApp ya tiene configurado el control de versiones `nodejs`, también viene instalado `pnpm`, `git`, `npm`. Y las compilaciones funcionan correctamente de typescript.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F70000&background=450F6200&width=435&lines=CR%C3%89DITOS+%F0%9F%9A%80)](https://git.io/typing-svg)
 
