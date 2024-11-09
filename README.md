@@ -5,3 +5,7 @@
 > Este es un entorno de desarrollo basado en Linux directamente en la terminal `TERMUX`
 > donde estaremos ejecutando el bot por medio de comandos y código en `UBUNTU`
 > para gestionar y administrar nuestros bot de WhatsApp sin la necesidad de tener una computadora. Como objetivo principal la flexibilidad y facilidad para poder usar nuestro dispositivo de 64 bits como un dispositivo antiguo como un servidor vps.
+
+> [!IMPORTANT]
+> Requisitos Previos
+> Dispositivo de `64 Bits` con al menos 2.5 GB de almacenamiento disponible.
