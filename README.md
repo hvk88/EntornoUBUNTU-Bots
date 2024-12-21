@@ -1,4 +1,5 @@
 ## BUILDERBOT EN TERMUX
+creditos a: https://www.youtube.com/@Retired64
 
 ![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 ![IMG](assets/images/logo.png)
